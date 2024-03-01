@@ -19,6 +19,8 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
+npx json-server --watch data/db.json
+
 npm run dev
 ```
 
